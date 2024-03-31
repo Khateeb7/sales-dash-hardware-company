@@ -14,5 +14,4 @@ Key Insights:
 4. Surat is the most profitable market for the company
 
 Skills: Data Cleaning · Forecasting · Microsoft Power BI · Data Visualization · Business Analysis · Analytical Skills · Business Process
-![image](https://github.com/Khateeb7/sales-dash-hardware-company/assets/80978481/b8b4e615-63cf-4baa-9bbf-4b70841966d6)
 
